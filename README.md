@@ -1,2 +1,0 @@
-# asseessment
-Typescript assessment

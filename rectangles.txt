@@ -1,0 +1,5 @@
+# A list of rectangles
+[1 1 2 2 first rect]
+[3 3 4 4 second rect]
+[3.7 3.7 4.2 4.2 overlapping]
+[0 0 -1 -1 "outside]
