@@ -11,9 +11,9 @@ Typescript assessment
 
 Run the below commands from the root folder of the application to **build->test->run**. I've kept the rectangles.txt points.txt at the root folder of the project.
 
-npm* install*
-npm* test*
-npm* node* ./dist/tool.js rectangles.txt points.txt
+*npm install*<br>
+*npm test*<br>
+*npm node ./dist/tool.js rectangles.txt points.txt*<br>
 
 ## Task 2: Code Review
 Please find codeReview.ts file at the folder code_review_file, I've mentioned my review comments wherever needed, I've commented at 19 places all are starting with **// Review -**
