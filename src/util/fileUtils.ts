@@ -8,7 +8,7 @@ import readline, { ReadLine } from 'readline';
 export function getFileReader(filePath: string): ReadLine {
 
     return readline.createInterface({
-        
+
         input: fs.createReadStream(filePath, 'utf-8').on('error', (err) => {
             console.log(`not able to open the file ${filePath}`);
         })
